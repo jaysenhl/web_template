@@ -1,0 +1,17 @@
+body {
+    height: 100%;
+    background-image: url("/imgs/quantum-gradient.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+  #page-content {
+    flex: 1 0 auto;
+    padding-bottom: 60px; /* Height of the footer */
+  }
+
+  #footer {
+    flex-shrink: 0;
+  }
+
